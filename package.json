@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "SKRIBBL",
+  "description": "Draw or Guess",
   "license": "ISC",
   "author": "Koustav Saha",
   "type": "module",
